@@ -25,7 +25,7 @@ Este repositorio tiene como objetivo **mostrar mis habilidades, compartir proyec
    - [Comparativa de Total Ingresos vs Año Anterior – ContosoSales](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#-comparativa-de-total-ingresos-vs-a%C3%B1o-anterior--contososales)
    - [Análisis histórico de ventas en la industria de videojuegos](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#-comparativa-de-total-ingresos-vs-a%C3%B1o-anterior--contososales)
  
-- Contacto
+- [Contacto](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#contacto)
   
 ---
 ## 📁 Proyectos
