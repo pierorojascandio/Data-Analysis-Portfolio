@@ -1,6 +1,13 @@
 # Piero Rojas Candio - Portafolio de proyectos
 # 📊 Análisis de demanda y variación de precios con Python
 
+## Código
+👉 [Ver Notebook – Análisis de Demanda y Precios](notebooks/Avance_Proyecto_Final.ipynb)
+
+Proyecto de analítica de datos desarrollado en Python con el objetivo de analizar la relación
+entre la variación de precios y la demanda de productos, y proponer un enfoque predictivo
+que apoye la toma de decisiones comerciales.
+
 ## Descripción
 Proyecto de analítica de datos desarrollado en Python con el objetivo de analizar la relación
 entre la variación de precios y la demanda de productos, y proponer un enfoque predictivo
