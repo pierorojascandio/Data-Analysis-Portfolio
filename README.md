@@ -20,7 +20,7 @@ Este repositorio tiene como objetivo **mostrar mis habilidades, compartir proyec
 
 - [Acerca de mí](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#acerca-de-mi)
 
-- Proyectos
+- [Proyectos](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#-proyectos)
    - [Análisis de demanda y variación de precios con Python](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#-an%C3%A1lisis-de-demanda-y-variaci%C3%B3n-de-precios-con-python)
    - [Comparativa de Total Ingresos vs Año Anterior – ContosoSales](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#-comparativa-de-total-ingresos-vs-a%C3%B1o-anterior--contososales)
    - [Análisis histórico de ventas en la industria de videojuegos](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#-comparativa-de-total-ingresos-vs-a%C3%B1o-anterior--contososales)
@@ -211,3 +211,7 @@ directamente desde el modelo transformado.
 - Identificación de tendencias históricas en las ventas de videojuegos.
 - Visualización clara de mercados y periodos con mayor volumen de ventas.
 - Dashboard preparado para análisis exploratorio y toma de decisiones.
+
+## Contacto
+- LinkedIn: [Piero Rojas Candio](https://www.linkedin.com/in/pierorojascandio/)
+- Email: [pierorojascandio@hotmail.com](pierorojascandio@hotmail.com)
