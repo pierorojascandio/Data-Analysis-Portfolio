@@ -21,9 +21,9 @@ Este repositorio tiene como objetivo **mostrar mis habilidades, compartir proyec
 - [Acerca de mí](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#acerca-de-mi)
 
 Proyectos
-- [Análisis de demanda y variación de precios con Python](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#análisis-de-demanda-y-variación-de-precios-con-python)
-- [Comparativa de Total Ingresos vs Año Anterior – ContosoSales](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#comparativa-de-total-ingresos-vs-año-anterior--contososales)
-- [Análisis histórico de ventas en la industria de videojuegos](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#análisis-histórico-de-ventas-en-la-industria-de-videojuegos)
+- [Análisis de demanda y variación de precios con Python](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#-an%C3%A1lisis-de-demanda-y-variaci%C3%B3n-de-precios-con-python)
+- [Comparativa de Total Ingresos vs Año Anterior – ContosoSales](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#-comparativa-de-total-ingresos-vs-a%C3%B1o-anterior--contososales)
+- [Análisis histórico de ventas en la industria de videojuegos](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#-comparativa-de-total-ingresos-vs-a%C3%B1o-anterior--contososales)
 
 ## 📝 Otras Secciones
 - Herramientas y Tecnologías
